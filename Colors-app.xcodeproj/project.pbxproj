@@ -17,6 +17,7 @@
 		0D6034B12B98B4A000C65CD6 /* Colors_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6034B02B98B4A000C65CD6 /* Colors_appUITestsLaunchTests.swift */; };
 		0D83AEF52BAB478900E90F41 /* ColorsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D83AEF42BAB478900E90F41 /* ColorsTableVC.swift */; };
 		0D83AEF72BAB536A00E90F41 /* ColorDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D83AEF62BAB536A00E90F41 /* ColorDetailsVC.swift */; };
+		0DAB97702BB1A05800065078 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DAB976F2BB1A05800065078 /* UIColor+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0D6034B02B98B4A000C65CD6 /* Colors_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0D83AEF42BAB478900E90F41 /* ColorsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsTableVC.swift; sourceTree = "<group>"; };
 		0D83AEF62BAB536A00E90F41 /* ColorDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailsVC.swift; sourceTree = "<group>"; };
+		0DAB976F2BB1A05800065078 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				0D6034962B98B4A000C65CD6 /* Assets.xcassets */,
 				0D6034982B98B4A000C65CD6 /* LaunchScreen.storyboard */,
 				0D60349B2B98B4A000C65CD6 /* Info.plist */,
+				0DAB976F2BB1A05800065078 /* UIColor+Ext.swift */,
 			);
 			path = "Colors-app";
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			files = (
 				0D83AEF52BAB478900E90F41 /* ColorsTableVC.swift in Sources */,
 				0D83AEF72BAB536A00E90F41 /* ColorDetailsVC.swift in Sources */,
+				0DAB97702BB1A05800065078 /* UIColor+Ext.swift in Sources */,
 				0D60348E2B98B49F00C65CD6 /* AppDelegate.swift in Sources */,
 				0D6034902B98B49F00C65CD6 /* SceneDelegate.swift in Sources */,
 			);
